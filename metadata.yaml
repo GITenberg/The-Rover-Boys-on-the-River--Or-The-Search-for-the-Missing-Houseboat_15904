@@ -1,0 +1,35 @@
+_repo: The-Rover-Boys-on-the-River--Or-The-Search-for-the-Missing-Houseboat_15904
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stratemeyer, Edward
+    aliases:
+    - Winfield, Arthur M.
+    - Steward, Ray M.
+    - Bonehill, Captain Ralph
+    - Bonehill, Ralph
+    birthdate: 1862
+    deathdate: 1930
+    gutenberg_agent_id: '1626'
+    url: http://www.gutenberg.org/2009/agents/1626
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Stratemeyer
+description: ''
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2005-05-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15904'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Kidnapping -- Juvenile fiction'
+- !lcsh 'Houseboats -- Juvenile fiction'
+- !lcsh 'Brothers -- Juvenile fiction'
+title: The Rover Boys on the River; Or, The Search for the Missing Houseboat
+url: http://www.gutenberg.org/ebooks/15904
